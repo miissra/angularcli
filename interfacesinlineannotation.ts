@@ -11,7 +11,7 @@ drawPoint({
 
 ///////////////////////////////////////////////////////////////////////
 
-//Interfaces Implementation for clean code and declaration of the structure of the function
+//Interfaces Implementation for clean code and declaration of the structure of the function Interface name should be in caps 
 
 interface Point{
     x:number,
